@@ -1,3 +1,12 @@
+##############################################################################################
+#                                                                                            #
+#                                                                                            #
+#   This script is subject to your project structure                                         #
+#   This script works as is:                                                                 #
+#      - for projects where ./protobufs and ./protoc_out_files are at the same dir level     #
+#                                                                                            #
+##############################################################################################
+
 # Checking whether we are in the required directory
 
 PROTOBUF_DIR="./protobufs"
